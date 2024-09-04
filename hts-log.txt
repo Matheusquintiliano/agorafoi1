@@ -1,0 +1,33 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 03 Sep 2024 15:32:17 at https://vivendodecripto.com/sinais/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://vivendodecripto.com/sinais/ -O1 "C:\Meus Sites\https___vivendodecripto.com_sinais_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:32:54	Error: 	"Not Found" (404) at link https://vivendodecripto.com/sinais/images/Captura-de-Tela-2023-11-18-as-16.45.44.png (from https://vivendodecripto.com/sinais/)
+15:32:54	Error: 	"Not Found" (404) at link https://vivendodecripto.com/sinais/images/Captura-de-Tela-2023-11-18-as-16.46.43.png (from https://vivendodecripto.com/sinais/)
+15:33:10	Error: 	"Not Found" (404) at link https://vivendodecripto.com/sinais/a (from https://vivendodecripto.com/sinais/js/fbevents.js)
+15:33:10	Error: 	"Not Found" (404) at link https://vivendodecripto.com/sinais/POST (from https://vivendodecripto.com/sinais/js/fbevents.js)
+15:33:10	Error: 	"Not Found" (404) at link https://vivendodecripto.com/sinais/schema.org/ (from https://vivendodecripto.com/sinais/js/fbevents.js)
+15:33:10	Error: 	"Not Found" (404) at link https://vivendodecripto.com/sinais/b.resolvedLink (from https://vivendodecripto.com/sinais/js/fbevents.js)
+15:33:10	Error: 	"Not Found" (404) at link https://vivendodecripto.com/signals/iwl.js (from https://vivendodecripto.com/sinais/js/fbevents.js)
+15:33:11	Error: 	"Not Found" (404) at link https://vivendodecripto.com/sinais/$&/ (from https://vivendodecripto.com/sinais/js/react.min.js)
+15:33:11	Error: 	"Not Found" (404) at link https://vivendodecripto.com/sinais/moment-timezone-utils.js must be loaded after moment-timezone.js (from https://vivendodecripto.com/sinais/js/date.min.js)
+15:33:11	Warning: 	Moved Permanently for https://vivendodecripto.com/sinais/Moment Timezone requires Moment.js. See https://momentjs.com/timezone/docs/
+15:33:11	Warning: 	File has moved from https://vivendodecripto.com/sinais/Moment Timezone requires Moment.js. See https://momentjs.com/timezone/docs/ to https://vivendodecripto.com/sinais/Moment%20Timezone%20requires%20Moment.js.%20See%20https:/momentjs.com/timezone/docs/
+15:33:11	Error: 	"Not Found" (404) at link https://vivendodecripto.com/sinais/applewebkit/ (from https://vivendodecripto.com/sinais/js/components.min.js)
+15:33:11	Error: 	"Not Found" (404) at link https://vivendodecripto.com/sinais/chrome/ (from https://vivendodecripto.com/sinais/js/components.min.js)
+15:33:11	Error: 	"Not Found" (404) at link https://vivendodecripto.com/sinais/makeMarkdown.txt (from https://vivendodecripto.com/sinais/js/blocks.min.js)
+15:33:11	Error: 	"Not Found" (404) at link https://vivendodecripto.com/sinais/o,e.rootUrl (from https://vivendodecripto.com/sinais/js/block-editor.min.js)
+15:33:11	Error: 	"Not Found" (404) at link https://vivendodecripto.com/sinais/u.source,this.map.consumer (from https://vivendodecripto.com/sinais/js/block-editor.min.js)
+15:33:11	Error: 	"Not Found" (404) at link https://vivendodecripto.com/sinais/core/ (from https://vivendodecripto.com/sinais/js/block-editor.min.js)
+15:33:11	Error: 	"Not Found" (404) at link https://vivendodecripto.com/sinais/image/ (from https://vivendodecripto.com/sinais/js/block-editor.min.js)
+15:33:11	Error: 	"Not Found" (404) at link https://vivendodecripto.com/sinais/n (from https://vivendodecripto.com/sinais/js/block-editor.min.js)
+15:33:11	Error: 	"Not Found" (404) at link https://vivendodecripto.com/sinais/post.php (from https://vivendodecripto.com/sinais/js/live-site-control.js)
+15:33:11	Error: 	"Not Found" (404) at link https://vivendodecripto.com/sinais/-negative.svg (from https://vivendodecripto.com/sinais/js/frontend.min.js)
+15:33:11	Error: 	"Not Found" (404) at link https://vivendodecripto.com/sinais/OPR/ (from https://vivendodecripto.com/sinais/js/frontend.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 54 seconds : 124 links scanned, 102 files written (7621722 bytes overall) [3609220 bytes received at 66837 bytes/sec], 7710382 bytes transferred using HTTP compression in 109 files, ratio 30%, 15.8 requests per connection
+(20 errors, 2 warnings, 0 messages)
